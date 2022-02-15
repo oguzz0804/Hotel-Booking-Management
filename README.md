@@ -1,8 +1,3 @@
-<br />
-
-![alt text](https://i.ibb.co/86WHKJW/screencapture-hotel-360-booking-netlify-app-rooms-2021-03-07-20-51-46.png)
-
-<br />
 
 ## Available Scripts
 
