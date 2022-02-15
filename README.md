@@ -1,5 +1,3 @@
-youtube link of the project : https://youtu.be/8ju7C12gv0s
-
 <br />
 
 ![alt text](https://i.ibb.co/86WHKJW/screencapture-hotel-360-booking-netlify-app-rooms-2021-03-07-20-51-46.png)
